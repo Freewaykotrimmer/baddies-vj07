@@ -1,4 +1,4 @@
-#  
+#  baddies secure Script offers the most advanced baddies Script, with auto-heal and auto-sell. Perfect for dominating any match.
 
 
 
